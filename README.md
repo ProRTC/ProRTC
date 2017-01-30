@@ -36,7 +36,7 @@ it, simply add the following line to your Podfile:
 platform :ios, '9.0'
 
 target 'TargetName' do
-pod 'ProRTC', '1.0.0-beta1'
+pod 'ProRTC', '1.0.0-beta2'
 end
 ```
 
