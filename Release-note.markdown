@@ -1,7 +1,19 @@
 ProRTC release notes
 ==============================
 
-## [1.0.0-beta1](https://github.com/ProRTC/ProRTC/releases/tag/1.0.0-beta1) (13/01/2017)
+## 1.0.0-beta2(January 30, 2017)
+
+*Features*
+
+  • **PWEAGLVideoView** now supports a new content mode **UIViewContentModeScaleAspectFill**. By default is **UIViewContentModeScaleToFill**.
+
+*Known issues*
+
+  • IPv6 is not fully supported.
+  
+  • Bitcode is not supported.
+
+## 1.0.0-beta1(January 13, 2017)
 
 First BETA release of ProRTC SDK for iOS.
 
