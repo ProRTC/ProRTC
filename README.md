@@ -36,13 +36,13 @@ it, simply add the following line to your Podfile:
 platform :ios, '9.0'
 
 target 'TargetName' do
-pod 'ProRTC', '1.0.0-beta2'
+pod 'ProRTC', '1.0.0-beta2.1'
 end
 ```
 
 ## Documentation
 
-[ProRTC Documentation](http://cocoadocs.org/docsets/ProRTC/1.0.0-beta2/)
+[ProRTC Documentation](http://cocoadocs.org/docsets/ProRTC/1.0.0-beta2.1/)
 
 ## Samples
 
