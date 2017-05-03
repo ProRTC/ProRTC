@@ -23,3 +23,4 @@
 #import "PWVideoConstraints.h"
 #import "PWParticipant.h"
 #import "PWLocalParticipant.h"
+#import "PWSoundRouter.h"

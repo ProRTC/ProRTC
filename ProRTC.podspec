@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ProRTC'
-  s.version          = '1.0.0-beta2.1'
+  s.version          = '1.0.0-beta2.2'
   s.summary          = 'An easy-to-use framework provides native WebRTC support on iOS platform.'
   s.homepage         = 'https://prortc.com'
   s.license          = { :type => 'Commercial', :text => 'https://prortc.com/terms-conditions.php' }

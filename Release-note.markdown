@@ -1,6 +1,18 @@
 ProRTC release notes
 ==============================
 
+## 1.0.0-beta2.2(May 03, 2017)
+
+*Updates*
+
+• Introduces new class **PWSoundRouter** to manage switching between audio output ports.
+
+*Known issues*
+
+• IPv6 is not fully supported.
+
+• Bitcode is not supported.
+
 ## 1.0.0-beta2.1(April 17, 2017)
 
 *Updates*
